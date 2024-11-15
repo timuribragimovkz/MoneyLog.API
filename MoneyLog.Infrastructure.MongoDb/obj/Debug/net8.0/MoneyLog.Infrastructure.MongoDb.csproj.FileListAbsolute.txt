@@ -1,0 +1,17 @@
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.deps.json
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Domain.Common.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Domain.LogEntry.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Domain.Common.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\bin\Debug\net8.0\MoneyLog.Domain.LogEntry.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.csproj.AssemblyReference.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.AssemblyInfoInputs.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.AssemblyInfo.cs
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.csproj.CoreCompileInputs.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.9BF2D029.Up2Date
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\refint\MoneyLog.Infrastructure.MongoDb.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\MoneyLog.Infrastructure.MongoDb.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Infrastructure.MongoDb\obj\Debug\net8.0\ref\MoneyLog.Infrastructure.MongoDb.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MoneyLog.Domain.LogEntry/1.0.0": {
+        "dependencies": {
+          "MoneyLog.Domain.Common": "1.0.0"
+        },
+        "runtime": {
+          "MoneyLog.Domain.LogEntry.dll": {}
+        }
+      },
+      "MoneyLog.Domain.Common/1.0.0": {
+        "runtime": {
+          "MoneyLog.Domain.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyLog.Domain.LogEntry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoneyLog.Domain.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

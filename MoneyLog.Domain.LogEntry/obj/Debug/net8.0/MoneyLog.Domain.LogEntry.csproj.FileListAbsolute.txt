@@ -1,0 +1,15 @@
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\bin\Debug\net8.0\MoneyLog.Domain.LogEntry.deps.json
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\bin\Debug\net8.0\MoneyLog.Domain.LogEntry.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\bin\Debug\net8.0\MoneyLog.Domain.LogEntry.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\bin\Debug\net8.0\MoneyLog.Domain.Common.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\bin\Debug\net8.0\MoneyLog.Domain.Common.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.csproj.AssemblyReference.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.AssemblyInfoInputs.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.AssemblyInfo.cs
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.csproj.CoreCompileInputs.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.490D486D.Up2Date
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\refint\MoneyLog.Domain.LogEntry.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\MoneyLog.Domain.LogEntry.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.LogEntry\obj\Debug\net8.0\ref\MoneyLog.Domain.LogEntry.dll

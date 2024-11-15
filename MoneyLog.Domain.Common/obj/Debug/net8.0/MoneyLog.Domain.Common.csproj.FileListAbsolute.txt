@@ -1,0 +1,11 @@
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\bin\Debug\net8.0\MoneyLog.Domain.Common.deps.json
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\bin\Debug\net8.0\MoneyLog.Domain.Common.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\bin\Debug\net8.0\MoneyLog.Domain.Common.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\MoneyLog.Domain.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\MoneyLog.Domain.Common.AssemblyInfoInputs.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\MoneyLog.Domain.Common.AssemblyInfo.cs
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\MoneyLog.Domain.Common.csproj.CoreCompileInputs.cache
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\MoneyLog.Domain.Common.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\refint\MoneyLog.Domain.Common.dll
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\MoneyLog.Domain.Common.pdb
+C:\Users\timur\RiderProjects\MoneyLog.API\MoneyLog.Domain.Common\obj\Debug\net8.0\ref\MoneyLog.Domain.Common.dll
